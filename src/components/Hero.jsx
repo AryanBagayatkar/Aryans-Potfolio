@@ -26,7 +26,7 @@ const Hero = () => {
       <div className="col ">
         <h2 className='mt-5 hanm'>Hello World!</h2>
         <h1 className='mt-4 hanm'>Aryan <br /> Bagayatkar</h1>
-        <p className='mt-4 hanm'>Developing a new era web designs and websites with artifical intelligence and 3 Dimension Models</p>
+                <p className='mt-4 hanm'>Developing a new era web designs and websites with <b>Artifical Intelligence</b>  and <b>3 Dimension Models</b></p>
         <a className='btn btn-dark hanm1' href={pdf1} download="AryanBagayatkar_InternshalaResume.pdf">Resume</a>
       </div>
       <div className="col"></div>
