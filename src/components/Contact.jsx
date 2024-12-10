@@ -8,7 +8,7 @@ const Contact = () => {
       <div className="row justify-content-md-center">
         <div className="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
           <h2 className="mb-4 display-5 text-center">Contact</h2>
-          <p className="text-secondary mb-5 text-center">The best way to contact us is to use our contact form below. Please fill out all of the required fields and we will get back to you as soon as possible.</p>
+          <p className="text-secondary mb-5 text-center">The best way to contact me is to use our contact form below. Please fill out all of the required fields and we will get back to you as soon as possible.</p>
           <hr className="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle" />
         </div>
       </div>
@@ -58,7 +58,6 @@ const Contact = () => {
               </div>
             </div>
           </form>
-
         </div>
       </div>
     </div>
