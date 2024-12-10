@@ -2,16 +2,21 @@
   "name": "potfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://AryanBagayatkar.github.io/Aryans-Potfolio",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "bootstrap": "^5.3.3",
+    "gh-pages": "^6.2.0",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.6",
