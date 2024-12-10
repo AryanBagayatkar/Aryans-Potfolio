@@ -20,14 +20,7 @@ function App() {
       <Navbar1 />
       <div className="container-fluid">
         <Routes>
-          <Route
-            path="/"
-            element={
-              <div className="container">
-                <Hero />
-              </div>
-            }
-          />
+          <Route path="/" element={<Hero />} />
           <Route path="/project" element={<Project />} />
           <Route path="/project1" element={<Project1 />} />
           <Route path="/project2" element={<Project2 />} />
@@ -35,6 +28,7 @@ function App() {
           <Route path="/project4" element={<Project4 />} />
         </Routes>
       </div>
+       <Hero />
       <hr className="mt-5" />
         <Skills />
       <hr className="mt-5" />
