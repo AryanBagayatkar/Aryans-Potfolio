@@ -22,6 +22,7 @@ const Hero = () => {
     })
   })
   return (
+    <div className ='container'>
     <div className='row mt-5'>
       <div className="col ">
         <h2 className='mt-5 hanm'>Hello World!</h2>
@@ -34,6 +35,7 @@ const Hero = () => {
         <h2 className='p-3'>About Myself</h2>
         <p className='px-3'><span className='text-primary pl-3'>Hello!</span> <br /> Myself <b>Aryan Bagayatkar </b> <br /> a web designer and web developer based in Mumbai. I bring a unique perspective to every project. Additionally, I am a video editor and graphic designer, capturing every moment to craft digital experiences and bring them to life.</p>
       </div>
+    </div>
     </div>
   )
 }
