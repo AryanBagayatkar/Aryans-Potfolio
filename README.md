@@ -7,13 +7,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Aryan's Portfolio
+# Aryan's Portfolio
 Welcome to Aryan's Portfolio! This project showcases my skills, projects, and achievements as a web developer. It's a personal website built using React, Bootstrap, and GSAP animations for a smooth user experience.
 
-🚀 Live Demo
+# 🚀 Live Demo
 Check out the live version of the portfolio: soon
 
-🛠️ Features
+# 🛠️ Features
 Responsive Design: Fully mobile-friendly and adapts to all screen sizes.
 Smooth Animations: Powered by GSAP for an engaging user interface.
 Project Showcase: Highlighting my key projects with descriptions and links.
@@ -26,32 +26,7 @@ React
 React Router
 Bootstrap
 GSAP (GreenSock Animation Platform)
-Hosting:
-GitHub Pages
-📂 Project Structure
-css
-Copy code
-Aryans-Portfolio/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── assets/
-│   │   └── images/ (Project images, logos, etc.)
-│   ├── components/
-│   │   ├── Navbar1.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Project.jsx
-│   │   ├── Contact.jsx
-│   │   └── Footer.jsx
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── package.json
-├── .gitignore
-└── README.md
-💻 Installation & Setup
+
 Clone the repository:
 
 bash
@@ -78,21 +53,18 @@ arduino
 Copy code
 http://localhost:3000
 
-✨ GSAP Animations Used
+# ✨ GSAP Animations Used
 Navbar: Smooth fade-in with staggered items.
 Cards: Bounce effect for each project card.
 Hero Section: Dynamic animations for text and elements.
-🧑‍💻 About Me
+# 🧑‍💻 About Me
 Hi, I'm Aryan Bagayatkar, a passionate web developer from Mumbai. I specialize in creating modern, responsive websites and applications. Check out my portfolio to see the projects I’ve worked on!
 
-🌟 Acknowledgments
+# 🌟 Acknowledgments
 GSAP for the animation library.
 React Router for seamless navigation.
 Bootstrap for responsive components.
-📬 Contact
-Email: aryan@example.com
-LinkedIn: Aryan Bagayatkar
-GitHub: AryanBagayatkar
-📄 License
+
+# 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
