@@ -19,10 +19,10 @@ const Project3 = () => {
             <li>Acts a Translation Tool</li>
           </ul>
           <hr />
-          <h4 className="lh-lg">Language Changer as name suggest it changes Language from English to Spanish or anything else , Here i18Next npm package plays important  role, as i18Next contains all Languages and translated version, here there is a dropdown which help to navigate through lanuages.It helps in open world as it has world wide lanuage in it , which better expirence while travelling around the globe.</h4>
+          <h4 className="lh-lg">Language Changer, as the name suggests, allows users to switch languages, such as from English to Spanish or any other language. The i18Next npm package plays a crucial role in this functionality, as it contains various languages and their translated versions. There is a dropdown menu that helps users navigate through different languages. This feature is particularly useful in the global context, as it supports multiple languages, providing a better experience while traveling around the world.</h4>
           <hr />
     
-          <a className='btn btn-primary'href="https://github.com/AryanBagayatkar/Task2Nullclass">Code</a>
+          <a className='btn btn-dark'href="https://github.com/AryanBagayatkar/Task2Nullclass">Code</a>
         </div>
       </div>
     </div>
