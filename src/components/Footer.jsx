@@ -47,7 +47,7 @@ const Footer = () => {
                 <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
                 <p>Mumbai,India</p>
                 <p>
-                    aryan990leo@gmail.com.com
+                    aryan990leo@gmail.com
                 </p>
                 <p> +91 829 173 5756</p>
                 © 2024 Copyright:Aryan-potfolio.com
