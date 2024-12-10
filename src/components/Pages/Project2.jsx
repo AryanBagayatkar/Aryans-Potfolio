@@ -21,10 +21,10 @@ const Project2 = () => {
             <li>API Driven</li>
           </ul>
           <hr />
-          <h4 className='lh-lg'>DoubtBot is a Artifical Inteligence Bot that help us to assist you on your requirment question , the Artifical Bots are highly used in this days to assist customer as it replace human support where as it provides 24x7 support to customer.I have integrated Botpress API which is floating on bottom right corner , the Bot is trainned to perform mathematical calculation and so on , Bot interact with user by a single prompt that can be whatever.</h4>
+          <h4 className='lh-lg'>DoubtBot is an Artificial Intelligence bot designed to assist you with your queries and requirements. AI-powered bots are increasingly used these days to provide customer support, replacing human agents while offering 24/7 assistance. I have integrated the Botpress API, which is floating at the bottom-right corner of the screen. The bot is trained to perform mathematical calculations and more. It interacts with users through a single prompt, which can be customized based on the user’s input.</h4>
           <hr />
          
-          <a className='btn btn-primary'href="https://github.com/AryanBagayatkar/DBC1">Code</a>
+          <a className='btn btn-dark'href="https://github.com/AryanBagayatkar/DBC1">Code</a>
         </div>
       </div>
     </div>
