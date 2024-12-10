@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="text-center text-lg-start bg-body-tertiary text-muted">
         <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
             <div className="me-5 d-none d-lg-block">
-            <span>Get connected with us on social networks:</span>
+            <span>Get connected with me</span>
             </div>
         </section>
         <section className="">
@@ -24,9 +24,6 @@ const Footer = () => {
                 </p>
                 <p>
                     <a href="#!" className="text-reset">Skills</a>
-                </p>
-                <p>
-                    <a href="#!" className="text-reset">Project</a>
                 </p>
                 </div>
                 
@@ -50,12 +47,10 @@ const Footer = () => {
                     aryan990leo@gmail.com
                 </p>
                 <p> +91 829 173 5756</p>
-                © 2024 Copyright:Aryan-potfolio.com
+                © 2024 Copyright:aryan-potfolio.netlify.app
                 
                 </div>
-            
             </div>
-            
             </div>
         </section>
         </footer>
