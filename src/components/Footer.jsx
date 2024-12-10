@@ -33,7 +33,7 @@ const Footer = () => {
                     Social Media
                 </h6>
                 <p>
-                    <a href="https://www.linkedin.com/in/aryan-bagayatkar-86aa782a3/" className="text-reset">Linkdein</a>
+                    <a href="https://www.linkedin.com/in/aryan-bagayatkar-86aa782a3/" className="text-reset">Linkedin</a>
                 </p>
                 <p>
                     <a href="https://www.instagram.com/aryan.bagayatkar/" className="text-reset">Instagram</a>
