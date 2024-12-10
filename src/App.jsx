@@ -28,10 +28,9 @@ function App() {
           <Route path="/project4" element={<Project4 />} />
         </Routes>
       </div>
-       <div className="container-fluid">
+    
         <div className="container">
         <Hero />
-        </div>
       </div>
       <hr className="mt-5" />
         <Skills />
