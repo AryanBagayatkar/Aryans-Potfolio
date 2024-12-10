@@ -22,9 +22,12 @@ const Project4 = () => {
             <li>API Driven</li>
           </ul>
           <hr />
-            <h4 className="lh-lg">A collage TimeTable is a requirement of every collage as it is difficult to maintain manual record of each staff and each class , it is difficult to manage clashes between two period on same day , collage timetable gives mdrag and drop functionality to the managung staff and it also gives print option to staff, collage timetable is in two sides student end and staff end. It efficently helps collage staff to improvise any changes in collage timetable. </h4>
+            <h4 className="lh-lg">
+Here’s the corrected and improved version of the text:
+
+A College Timetable is a necessity for every college, as it is challenging to maintain manual records for each staff member and class. It is also difficult to manage clashes between periods on the same day. The college timetable provides drag-and-drop functionality for managing staff schedules, along with a print option for staff. The timetable is divided into two sections: the student end and the staff end. It efficiently helps college staff make any necessary changes to the timetable.</h4>
           <hr />
-          <a className='btn btn-primary'href="https://github.com/AryanBagayatkar/TimeTable">Code</a>
+          <a className='btn btn-dark'href="https://github.com/AryanBagayatkar/TimeTable">Code</a>
         </div>
       </div>
     </div>
