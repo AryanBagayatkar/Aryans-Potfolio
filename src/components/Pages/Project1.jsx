@@ -21,7 +21,7 @@ const Project1 = () => {
             <li>API Driven</li>
           </ul>
           <hr />
-          <h4 className='lh-lg'>A Gemini clone typically refers to recreating the functionality or user interface of the Gemini Protocol or its clients. The Gemini Protocol is a lightweight, text-focused internet protocol designed as a middle ground between HTTP (the web) and Gopher. It emphasizes simplicity, privacy, and minimal resource usage. <br />A Gemini Clone is a Genrative AI which uses Google API to give a desired output Gemini will give diffrent answer on same search.</h4>
+          <h4 className='lh-lg'>A Gemini clone typically refers to recreating the functionality or user interface of the Gemini Protocol or its clients. The Gemini Protocol is a lightweight, text-focused internet protocol designed as a middle ground between HTTP (the web) and Gopher. It emphasizes simplicity, privacy, and minimal resource usage.In contrast, a Gemini Clone as a Generative AI uses Google APIs to provide desired outputs. Gemini stands out by delivering different answers to the same query, leveraging AI to generate varied, context-aware responses.</h4>
           <hr />
          
           <a className='btn btn-dark'href="https://aryans-gemini-clone.netlify.app/">Preview</a>
