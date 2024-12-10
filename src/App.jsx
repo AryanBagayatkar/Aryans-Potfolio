@@ -12,7 +12,7 @@ import Footer from './components/Footer';
 import Project2 from './components/Pages/Project2';
 import Project3 from './components/Pages/Project3';
 import Project4 from './components/Pages/Project4';
-import Project5 from './components/Pages/Project5';
+
 
 function App() {
   return (
@@ -33,7 +33,6 @@ function App() {
           <Route path="/project2" element={<Project2 />} />
           <Route path="/project3" element={<Project3 />} />
           <Route path="/project4" element={<Project4 />} />
-          <Route path="/project5" element={<Project5 />} />
         </Routes>
       </div>
       <hr className="mt-5" />
