@@ -21,7 +21,7 @@ import ThemeContext from './ThemeContext'; // Import the context for use in AppC
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Aryans-Portfolio">
       <ThemeProvider>
         <AppContent />
       </ThemeProvider>
