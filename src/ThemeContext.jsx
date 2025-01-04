@@ -4,10 +4,10 @@ import React, { createContext, useState, useEffect } from 'react';
 const ThemeContext = createContext();
 
 export const ThemeProvider = ({ children }) => {
-  const [theme, setTheme] = useState('dark');
+  const [theme, setTheme] = useState('dark'); // Set default theme to 'dark'
 
   useEffect(() => {
-    // Set theme from localStorage if available
+    // Check localStorage for a saved theme
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme) {
       setTheme(savedTheme);
@@ -15,7 +15,7 @@ export const ThemeProvider = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    // Store the selected theme in localStorage
+    // Save the selected theme to localStorage
     localStorage.setItem('theme', theme);
     document.body.className = theme; // Apply the theme globally by modifying body class
   }, [theme]);
