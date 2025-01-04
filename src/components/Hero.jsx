@@ -2,7 +2,7 @@ import { gsap } from 'gsap';
 import React, { useRef ,useEffect } from 'react';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, useTexture } from '@react-three/drei';
+import { OrbitControls,  } from '@react-three/drei';
 import image1 from '../../public/gov.png'
 import image2 from '../../public/react.png';
 import image3 from '../../public/courseracert.png';
@@ -14,7 +14,7 @@ import { FaJsSquare } from "react-icons/fa";
 import { IoLogoHtml5 } from "react-icons/io";
 import { LuFigma } from "react-icons/lu";
 import { IoLogoGithub } from "react-icons/io5";
-import pdf1 from '../assets/AryanBagayatkar_InternshalaResume.pdf';
+import pdf1 from '../assets/resume.pdf';
 import { Link } from 'react-router';
 import Rubics from './Rubics';
 
@@ -198,7 +198,7 @@ const Hero = () => {
       <h1 className="mt-4 hanm text-uppercase display-1 h1">Aryan Bagayatkar</h1>
       <p className="mt-4 hanm text-uppercase">Web Designer | Front end web developer</p>
       <button className="custom-btn hanm1">
-        <a href={pdf1} download="Resume.pdf">Resume</a>
+        <a href={pdf1} download="resume.pdf">Resume</a>
       </button>
     </div>
 
