@@ -1,9 +1,10 @@
+
 import React from 'react'
 
 const Contact = () => {
   return (
     <div>
-      <section className="bg-light py-3 py-md-5" id='Contact'>
+      <section className=" py-3 py-md-5" id='Contact'>
         <div className="container">
       <div className="row justify-content-md-center">
         <div className="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
@@ -17,7 +18,7 @@ const Contact = () => {
   <div className="container">
     <div className="row justify-content-lg-center">
       <div className="col-12 col-lg-9">
-        <div className="bg-white border rounded shadow-sm overflow-hidden shadow-lg">
+        <div className=" border rounded shadow-sm overflow-hidden shadow-lg">
 
           <form action="#!">
             <div className="row gy-4 gy-xl-5 p-4 p-xl-5">
@@ -53,11 +54,12 @@ const Contact = () => {
               </div>
               <div className="col-12">
                 <div className="d-grid">
-                  <button className="btn btn-primary btn-lg" type="submit">Submit</button>
+                  <button className="btn custom-btn btn-lg" type="submit">Submit</button>
                 </div>
               </div>
             </div>
           </form>
+
         </div>
       </div>
     </div>
@@ -67,4 +69,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Contact;
