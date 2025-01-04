@@ -198,7 +198,7 @@ const Hero = () => {
       <h1 className="mt-4 hanm text-uppercase display-1 h1">Aryan Bagayatkar</h1>
       <p className="mt-4 hanm text-uppercase">Web Designer | Front end web developer</p>
       <button className="custom-btn hanm1">
-        <a href={pdf1} download="AryanBagayatkar_InternshalaResume.pdf">Resume</a>
+        <a href={pdf1} download="Resume.pdf">Resume</a>
       </button>
     </div>
 
